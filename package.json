@@ -1,0 +1,20 @@
+{
+  "name": "livredor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myounsipro/livre-dor.git"
+  },
+  "author": "myounsipro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myounsipro/livre-dor/issues"
+  },
+  "homepage": "https://github.com/myounsipro/livre-dor#readme"
+}
